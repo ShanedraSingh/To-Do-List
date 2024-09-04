@@ -1,8 +1,8 @@
 #Day2
-# To-Do List | [Live View](https://shanedrasingh.github.io/To-Do-List/)
+# To-Do List | [Live View](https://shanedrasingh.github.io/To-Do-List-App/)
 
 ## Description
-This To-Do List App is a simple yet powerful tool for managing tasks. Built using HTML, CSS, and JavaScript, the app allows users to add, delete, and mark tasks as complete, helping to keep your daily activities organized and efficient.
+This To-Do List App is a simple yet powerful tool for managing tasks. Built using HTML, CSS, and JavaScript, the app allows users to add, delete, and mark tasks as complete, helping to keep their daily activities organized and efficient.
 
 ## Features
 - **Add Tasks**: Easily add new tasks to your to-do list.
